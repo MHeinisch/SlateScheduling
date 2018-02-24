@@ -29,5 +29,6 @@ namespace SlateScheduling.Models
         {
             return new ApplicationDbContext();
         }
+        public DbSet<Employee> Employee { get; set; }
     }
 }

@@ -80,3 +80,5 @@ C:\Users\Mike and Nano\Desktop\devCodeCamp\Projects\My_Projects\SlateScheduling\
 C:\Users\Mike and Nano\Desktop\devCodeCamp\Projects\My_Projects\SlateScheduling\SlateScheduling\obj\Debug\SlateScheduling.csprojResolveAssemblyReference.cache
 C:\Users\Mike and Nano\Desktop\devCodeCamp\Projects\My_Projects\SlateScheduling\SlateScheduling\obj\Debug\SlateScheduling.dll
 C:\Users\Mike and Nano\Desktop\devCodeCamp\Projects\My_Projects\SlateScheduling\SlateScheduling\obj\Debug\SlateScheduling.pdb
+C:\Users\Mike and Nano\Desktop\devCodeCamp\Projects\My_Projects\SlateScheduling\SlateScheduling\obj\Debug\SlateScheduling.Migrations.createdemployeetable.resources
+C:\Users\Mike and Nano\Desktop\devCodeCamp\Projects\My_Projects\SlateScheduling\SlateScheduling\obj\Debug\SlateScheduling.csproj.GenerateResource.Cache
